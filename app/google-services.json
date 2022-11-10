@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395581046687",
+    "project_id": "papb-g",
+    "storage_bucket": "papb-g.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395581046687:android:6b890d23555cf7226947aa",
+        "android_client_info": {
+          "package_name": "id.ub.percobaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395581046687-vq70ftf36ct2gml0n6lednplel3tlu37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMuBNBOSNJgnRbGYy2Sp7AsEyCYSbad0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395581046687-vq70ftf36ct2gml0n6lednplel3tlu37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
